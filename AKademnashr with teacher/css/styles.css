@@ -1,0 +1,188 @@
+body {
+  font-family: Roboto ,sans-serif;
+}
+
+
+/* SITE HEADER */
+.site-header {
+  background-color: white;
+}
+
+/* nav {
+  font-family: Roboto, sans-serif;
+} */
+
+.sitenav-list {
+  list-style: none;
+}
+.sitenav-list a {
+  text-decoration: none;
+}
+
+.sitenav-link:hover{
+  color:red;
+}
+.telegramlink:hover {
+  color: #34bdfc;
+}
+.sitenav-link {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  /* text-decoration: none; */
+  color: black;
+}
+
+.main-link {
+  font-size: 13px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 15px;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  background-color: #FF7500;
+  color: white;
+}
+
+            /* HERO QISMI BOSHLANDI */
+
+.hero{
+  background-color: #252420;
+  color: white;
+
+}
+
+.hero-content{
+  width: 387px;
+}
+
+.orange-line {
+  width: 80px;
+  height: 3px;
+  background-color: #FF7500;
+}
+
+.hero-heading {
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.hero-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+
+}
+.hero-img {
+  width: 510px;
+  height: 510px;
+}
+
+            /* FEATURES QISMI BOSHLANDI */
+
+.features {
+}
+
+.feature-li {
+  width: 340px;
+  list-style-type: none;
+}
+
+.features-heading {
+  font-size: 72px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.feature-icon-wrapper {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255, 117, 0, 0.2);
+
+}
+
+.features-title {
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+
+}
+
+.feature-info {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+        /* AKSIYA BO'LIMI BOSHLANDI */
+.sec-aksiya{
+  background-color: #252420;
+  color: white;
+}
+
+.sec-aksiya-content {
+  width: 440px;
+}
+
+.sec-aksiya-heading {
+  font-size: 40px;
+  font-weight:700;
+  font-style: normal;
+  line-height:1.2;
+  letter-spacing: 0.5px;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.sec-aksiya-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+.aksiya-highlight {
+  color: #FF7500;
+}
+
+.aksiya-kitob {
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
+}
+              /* FOOTER BO'LIMI BOSHLANDI */
+
+.site-footer {
+  background-color: #F8F8F8;
+}
+.site-footer-header {
+  width: 1100px;
+}
+.site-footer-line {
+  background-color:rgba(37, 36, 32, 0.5) ;
+  height: 2px;
+}
+
+.site-footer ul {
+  list-style: none;
+}
+
+.site-footer-links {
+  width: 224px;
+}
+
+.site-footer-links a {
+  color: rgba(37, 36, 32, 1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-decoration: none;
+}
